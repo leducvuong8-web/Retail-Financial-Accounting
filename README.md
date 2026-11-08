@@ -5,7 +5,7 @@
 
 **Tools:** Python (Pandas, NumPy, Matplotlib), Jupyter Notebook  
 **Scope:** US Retail Company | FY2024 | USD  
-**Focus:** Financial Accounting, Data Analytics, Financial Planning & Analysis (FP&A)
+**Focus:** Financial Accounting, Data Analytics, Financial Planning & Analysis
 
 ---
 
@@ -153,6 +153,7 @@ Build an accounting control framework to identify unusual postings and prepare a
 | Journal Entries Flagged for Review | 2,993 |
 
 **Chart 1 — GL Accounting Review Coverage**
+![Tên biểu đồ](Chart/GL.png)
 
 ### Outcome
 
@@ -279,6 +280,7 @@ Developed a Python-based financial KPI framework covering:
 Analyzed 12 months of Revenue, COGS, Gross Profit, OPEX, and Operating Profit to identify unusual fluctuations and major earnings drivers.
 
 **Chart 2 — Monthly Sales, COGS & Operating Profit (FY2024)**
+![Tên biểu đồ](Chart/Financial_Trend.png)
 
 #### September–October Profitability Investigation
 
@@ -299,6 +301,7 @@ Developed an EBIT bridge to isolate the impact of Revenue, COGS, and OPEX change
 | **Total EBIT Change** | **-$10.55M** |
 
 **Chart 3 — September-to-October EBIT Driver Bridge**
+![Tên biểu đồ](Chart/9_10_EBIT.png)
 
 ### 8.3 Transaction-Level Root Cause Analysis
 
@@ -327,6 +330,7 @@ Analyzed annual OPEX of $38.87M by category, month, account, and individual Jour
 | **Total OPEX** | **$38.87M** | **100%** |
 
 **Chart 4 — FY2024 Operating Expense Breakdown**
+![Tên biểu đồ](Chart/Cost_Structure.png)
 
 The results indicated that Selling, Administrative, and Operating Expenses represented the largest areas for controllable cost optimization.
 
@@ -350,6 +354,7 @@ The proposed cost optimization assumptions were:
 | Cost Optimization + 17% Sales Growth | +$8.52M | +$0.21M |
 
 **Chart 5 — EBIT Improvement Scenarios**
+![Tên biểu đồ](Chart/EBIT_Scenario.png)
 
 Under the modeled assumptions, the business would require approximately **$9.33M in additional sales (+16.33%)** after cost optimization to reach operating break-even.
 
@@ -412,12 +417,4 @@ The financial analysis identified an **$8.31M operating loss**, traced **91.97% 
 
 The project highlights how accounting data can be used not only for recording and reporting transactions, but also for **explaining business performance, identifying financial risks, and supporting management decisions**.
 
----
 
-## CV-Ready Highlights
-
-**Retail Financial Accounting & FP&A Analysis | Python | FY2024**
-
-- Processed and audited **81,839 ERP General Ledger lines** using Python; performed AP/AR reconciliation, COA validation, and automated accounting controls to construct a balanced **$214.87M Trial Balance**.
-- Automated **1,150 year-end closing entries** and prepared financial statements with **9/9 successful reconciliation controls**, integrating financial accounting data into performance reporting.
-- Conducted FP&A profitability and root-cause analysis of an **$8.31M operating loss**, traced **$11.95M in October COGS to three Journal Entries**, and modeled **$3.32M in OPEX savings** with revenue-growth scenarios.
