@@ -1,0 +1,11 @@
+{
+  "validated": true,
+  "is_balanced": true,
+  "entries_processed": 15243,
+  "total_debits": "468557799.76",
+  "total_credits": "468557799.76",
+  "accounts_tracked": 4195,
+  "companies_tracked": 2,
+  "has_unbalanced_entries": false,
+  "validation_error_count": 0
+}
